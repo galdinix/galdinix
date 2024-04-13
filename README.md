@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, sou o Lucas Galdino
 
-<!--
-**galdinix/galdinix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Graduando de ADS buscando estágio na área
+- 🌱 Estudando python, dando mais atenção para a biblioteca Pandas, junto com modelagem relacional e MySql
+- 📫 Contate-me no Email: lsgaldino27@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=galdinix&show_icons=true&theme=radical)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galdinix&layout=compact)
+
