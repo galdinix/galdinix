@@ -6,7 +6,7 @@
 
 - 🔭 Graduando de ADS 
 - 🌱 estudando React e Laravel
-- 💼 Estagio de desenvolvimento na Comlurb
+- 💼 Estagiário de desenvolvimento na Comlurb
 - 📫 Contate-me no Email: lsgaldino27@gmail.com
 
 
