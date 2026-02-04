@@ -4,9 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2e2be2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Lucas+Galdino;Bem-vindo+ao+meu+GitHub!;🙂;😃;😄;😁;🙃;😉;👋)](https://git.io/typing-svg)
 
 
-- 🔭 Graduando de ADS 
-- 🌱 estudando React e Laravel
-- 💼 Estagiário de desenvolvimento na Comlurb
+- 🔭 Desenvolvedor Pleno
+- 🌱 estudando tudo e mais um pouco
 - 📫 Contate-me no Email: lsgaldino27@gmail.com
 
 
